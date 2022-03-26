@@ -1,7 +1,7 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)]()
 
 <h1 align="center">Hi 👋, I'm Ahmed Mohamed</h1>
-<h3 align="center">A passionate Android developer</h3>
+<h3 align="center">A passionate Mobile Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif?cid=790b761172b6bd772b203b2903e1e17a546276c4fa1001cf&rid=giphy.gif&ct=g">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedhamed-20&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedhamed-20" /> </p>
 
