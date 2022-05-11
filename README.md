@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)]()
+[![MasterHead](https://pbs.twimg.com/media/FKNlhKZUcAEd7FY?format=jpg&name=4096x4096)]()
 
 <h1 align="center">Hi 👋, I'm Ahmed Mohamed</h1>
 <h3 align="center">A Passionate Mobile Developer</h3>
